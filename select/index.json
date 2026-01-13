@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Birthday Party",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-01-13T18:06:55.946072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Birthday Party",
+      "artist": "Porridge Radio",
+      "has_synced": true,
+      "path": "select/01_Birthday_Party_Porridge_Radio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Birthday Party",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/02_The_Birthday_Party_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tears At The Birthday Party",
+      "artist": "Elvis Costello feat. Burt Bacharach",
+      "has_synced": true,
+      "path": "select/03_Tears_At_The_Birthday_Party_Elvis_Costello_feat._Burt_Bacharach.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tears At The Birthday Party",
+      "artist": "Elvis Costello Burt Bacharach",
+      "has_synced": true,
+      "path": "select/04_Tears_At_The_Birthday_Party_Elvis_Costello_Burt_Bacharach.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Birthday Party",
+      "artist": "NCT U",
+      "has_synced": true,
+      "path": "select/05_Birthday_Party_NCT_U.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "21st Birthday Party",
+      "artist": "Little Jackie",
+      "has_synced": false,
+      "path": "select/06_21st_Birthday_Party_Little_Jackie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jesus Came to My Birthday Party",
+      "artist": "The Middle East",
+      "has_synced": false,
+      "path": "select/07_Jesus_Came_to_My_Birthday_Party_The_Middle_East.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jesus Came To My Birthday Party",
+      "artist": "The Middle East",
+      "has_synced": true,
+      "path": "select/08_Jesus_Came_To_My_Birthday_Party_The_Middle_East.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tears at the Birthday Party",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/09_Tears_at_the_Birthday_Party_Elvis_Costello.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Birthday Party",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/10_Birthday_Party_AJR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Birthday Party",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/11_The_Birthday_Party_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Attending a Cousin's Birthday Party",
+      "artist": "Drug Church",
+      "has_synced": false,
+      "path": "select/12_Attending_a_Cousin's_Birthday_Party_Drug_Church.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Birthday Party Summer Camp (Helllooo Meggannnn)",
+      "artist": "Mixtapes",
+      "has_synced": true,
+      "path": "select/13_Birthday_Party_Summer_Camp_(Helllooo_Meggannnn)_Mixtapes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Birthday Party Summer Camp (Hellooo Meggann)",
+      "artist": "Mixtapes",
+      "has_synced": true,
+      "path": "select/14_Birthday_Party_Summer_Camp_(Hellooo_Meggann)_Mixtapes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Birthday Party",
+      "artist": "The Pixies Three",
+      "has_synced": true,
+      "path": "select/15_Birthday_Party_The_Pixies_Three.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Birthday Party",
+      "artist": "NCT U",
+      "has_synced": true,
+      "path": "select/16_Birthday_Party_NCT_U.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Michael Essien Birthday Party",
+      "artist": "Taco Hemingway feat. Zeppy Zep & Keeko",
+      "has_synced": true,
+      "path": "select/17_Michael_Essien_Birthday_Party_Taco_Hemingway_feat._Zeppy_Zep_&_Keeko.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Michael Essien Birthday Party",
+      "artist": "Taco Hemingway",
+      "has_synced": true,
+      "path": "select/18_Michael_Essien_Birthday_Party_Taco_Hemingway.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tears at the Birthday Party",
+      "artist": "Elvis Costello, Burt Bacharach & Bill Frisell",
+      "has_synced": false,
+      "path": "select/19_Tears_at_the_Birthday_Party_Elvis_Costello,_Burt_Bacharach_&_Bill_Frisell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Birthday Party",
+      "artist": "ピーナッツくん, 月ノ美兎",
+      "has_synced": false,
+      "path": "select/pl_01_Birthday_Party_ピーナッツくん,_月ノ美兎.txt"
+    }
+  ]
+}
